@@ -12,8 +12,6 @@ npm install
 
 npm start
 
-Painel administrativo pode ser acessado somente no localhost.
-
 ### Para testes
 
 npm test

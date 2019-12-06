@@ -4,9 +4,13 @@
   <% if(error){ %>
     <%= error %>
   <% }else { %>
-    <%= convertionValue %>
+    Dollar quotation: <%= quotation %> <br><br>
+    BRL amount: <%= amount %> <br><br>
+    Convert value: <strong>R$<%= convertionValue %></strong>
   <% }  %>
-
+</div>
+<div>
+  <a href="/" class="btn">Back</a>
 </div>
 
 <%- include('footer') %>
