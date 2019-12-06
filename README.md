@@ -2,7 +2,7 @@
 
 ## Aprendendo Nodejs - 2
 
-[Link do projeto](https://zeit.co/cristoferespindola/jobify/dwn3tl87h)
+[Link do projeto](https://convertmymoney-roan-ten.now.sh/)
 
 Conversor de dolar para reais, segundo projeto em *Nodejs*, com *Jest* para iniciar testes.
 
