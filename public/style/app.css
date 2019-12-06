@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+  width: 489px;
+  margin-top: 20px;
+}
+
+form input {
+  border: 1px solid #000000;
+  display: block;
+  margin: 12px auto;
+  padding: 10px;
+  font-size: 14px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+form input[type='submit'] {
+  background: #D8D8D8;
+}
+
+.result {
+  border: 1px solid  #D8D8D8;
+  background: #fdfdfd;
+  padding: 10px;
+  width: 300px;
+  margin: 12px auto;
+}
