@@ -1,7 +1,7 @@
 <%- include('header') %>
 
 <form method="GET" action="/quotation">
-  <input type="text" name="quotation" id="quotation" placeholder="Dollar exchange rate">
+  <input type="text" name="quotation" id="quotation" placeholder="Dollar exchange rate" value="<%= quotation %>">
   <input type="text" name="amount" id="amount" placeholder="BRL amount">
   <input type="submit" value="Convert!">
 </form>
